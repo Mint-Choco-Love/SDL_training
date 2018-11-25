@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  SDL
-//
-//  Created by 김만기 on 25/11/2018.
-//  Copyright © 2018 김만기. All rights reserved.
-//
-
 #include <iostream>
 #include <SDL2/SDL.h>
 #include <cstdlib>
